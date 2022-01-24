@@ -3,4 +3,4 @@ First Yolo implement for everyone!
 
 1. Download weights file from https://drive.google.com/file/d/1XTdFb3eJmzugHqq7LRyuwtzuqO7SjQlc/view?usp=sharing
 2. Install opencv : pip install opencv-python
-3. Run and enjoy: python YOLO.py --config ./yolov3.cfg --weights yolov3.weights --classes yolov3.txt --image cam3.jpeg
+3. Run and enjoy: python YOLO.py --config ./yolov3.cfg --weights yolov3.weights --classes yolov3.txt --image armas.jpg
